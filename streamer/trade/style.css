@@ -3,11 +3,11 @@ body {
 }
 
 .wrapper {
-	width: 700px;
+	width: 750px;
 	background-color: #132c40;
 	margin: auto;
 	display: block;
-	padding: 20px;
+	padding: 15px;
 	border-radius: 5px;
 }
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 table {
-	width: 500px;
+	width: 700px;
 	margin: auto;
 	border: white;
 }
